@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<style type="text/css" rel="stylesheet" href=""></style>
+        <script type="application/javascript" href=""></script>
+	</head>
+	<body>
+        <header></header>
+        <main>
+            <script src="https://gist.github.com/benkulbertis/fff10759c2391b6618dd.js"></script>
+        </main>
+        <footer></footer>
+	</body>
+</html>
